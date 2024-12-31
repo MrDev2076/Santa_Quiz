@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\bin\Debug\net8.0\Poly.exe
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\bin\Debug\net8.0\Poly.deps.json
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\bin\Debug\net8.0\Poly.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\bin\Debug\net8.0\Poly.dll
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\bin\Debug\net8.0\Poly.pdb
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\Poly.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\Poly.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\Poly.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\Poly.dll
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\refint\Poly.dll
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\Poly.pdb
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\Poly.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\KBN\Poly\obj\Debug\net8.0\ref\Poly.dll
